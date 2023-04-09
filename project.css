@@ -72,9 +72,22 @@ footer{
 footer h5{
     color: white;
 }
-
-
-
+main #divcommandz{
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 30px;
+    width: 800px;
+    /* display: flex; */
+}
+main #divcharacters{
+    border: 2px solid black;
+}
+main #divnamez{
+    background: #301385;
+}
+#divcharacters{
+    
+}
 
 
 
